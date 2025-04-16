@@ -1,0 +1,15 @@
+{
+  "network": "devnet",
+  "name": "DIAMOND Coin",
+  "symbol": "DMOND",
+  "decimals": 9,
+  "totalSupply": 1000000000,
+  "mintAddress": "43CEksE5tgBrvgRqBw1kaHvChXvRTWzWsUPCbn873bkE",
+  "tokenAccount": "EuwfEQvnFfw7uvR9YX2r2oYTC3eyo86uDg4sLTTGqAFi",
+  "owner": "8UFry8AbktBHUeMRrMchn5aJEsA7NCUxUoKc8qFAubrD",
+  "mintAuthority": "8UFry8AbktBHUeMRrMchn5aJEsA7NCUxUoKc8qFAubrD",
+  "freezeAuthority": "8UFry8AbktBHUeMRrMchn5aJEsA7NCUxUoKc8qFAubrD",
+  "createdAt": "2025-04-16T13:45:03.943Z",
+  "description": "DIAMOND Coin은(는) 솔라나 블록체인 기반의 멋진 토큰입니다.",
+  "image": "https://github.com/pilnine/my-token-metadata/blob/main/dmond-logo.svg"
+}
